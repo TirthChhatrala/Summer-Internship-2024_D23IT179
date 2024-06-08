@@ -1,7 +1,8 @@
 # Summer-Internship-2024_D23IT179
 
- This is the documentation of summer internship 2024
- 
+ # This is the documentation of summer internship 2024
+
+ web development language used are HTML , CSS and JavaScript
 week -1
 
    During the first week of the course, I explored the basics of HTML and developed a solid understanding of its fundamental elements.
