@@ -15,4 +15,8 @@ During the first week of the course, I explored the basics of HTML and developed
 
 In Week 2, I delved into the significance of CSS in webpage design, mastering its application to create visually appealing interfaces. I explored various layout techniques, including float, flexbox, and grid, honing my styling skills. Additionally, I enhanced the design of the blog post page from Week 1 and created various other components and pages, such as an accordion, carousel, hero section, tables, app layout, and pagination designs, utilizing CSS.
 
+## Week 3
+
+In Week 3, I gained basic knowledge of JavaScript and learned essential concepts for frontend web development. This included understanding variables, operators, functions,loops etc. I applied these skills in my project, enhancingthe website's functionality and interactivity. This hands-on experience was invaluable, allowing me to effectively integrate JavaScript with my existing design. It also improved my ability to create dynamic and responsive web pages, furthering my development skills.
+
 ---
