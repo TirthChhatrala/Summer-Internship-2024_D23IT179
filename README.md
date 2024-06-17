@@ -19,4 +19,7 @@ In Week 2, I delved into the significance of CSS in webpage design, mastering it
 
 In Week 3, I gained basic knowledge of JavaScript and learned essential concepts for frontend web development. This included understanding variables, operators, functions,loops etc. I applied these skills in my project, enhancingthe website's functionality and interactivity. This hands-on experience was invaluable, allowing me to effectively integrate JavaScript with my existing design. It also improved my ability to create dynamic and responsive web pages, furthering my development skills.
 
+## Week 4
+
+In Week 4, I created a travel project using HTML, CSS, and JavaScript. In this project, the client first registers and then selects a location, starting with the country and then choosing a state to learn more about its details. The client can choose dynamic travel packages based on their budget or select predefined packages. Additionally, I implemented features that allow clients to view detailed information about each state. Finally, I added a contact section, enabling clients to reach out via LinkedIn, Facebook, or other social media platforms if they encounter any issues. This comprehensive project not only improved my technical skills but also provided a practical application for developing user-friendly and interactive web pages.
 ---
