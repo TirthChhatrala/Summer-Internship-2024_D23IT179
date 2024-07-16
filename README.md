@@ -38,6 +38,34 @@ During the first week of the course, I explored the basics of HTML and developed
 
 In Week 2, I delved into the significance of CSS in webpage design, mastering its application to create visually appealing interfaces. I explored various layout techniques, including float, flexbox, and grid, honing my styling skills. Additionally, I enhanced the design of the blog post page from Week 1 and created various other components and pages, such as an accordion, carousel, hero section, tables, app layout, and pagination designs, utilizing CSS.
 
+# Day-by-Day CSS Process
+
+### Day 1:
+- Practiced basic CSS skills to enhance webpage styling.
+- Learned techniques for creating user-friendly interfaces using CSS.
+- Explored basic CSS concepts like selectors and properties.
+
+### Day 2:
+- Started learning advanced CSS layout techniques.
+- Studied float, flexbox, and grid layouts to structure web pages effectively.
+- Applied CSS layout techniques to improve the design of web pages.
+
+### Day 3:
+- Delved into web development and design principles.
+- Explored different website personalities and their impact on user experience.
+- Learned about typography, color theory, image optimization, shadows, icons, borders, whitespace, and visual hierarchy.
+- Studied methods to combine these elements for creating visually appealing web pages and enhancing user engagement.
+
+### Day 4:
+- Continued applying CSS skills to enhance the blog-post page and other components.
+- Created interactive elements like accordions and carousels using CSS.
+- Implemented design principles learned to improve user interaction and visual aesthetics.
+
+### Day 5:
+- Designed hero sections, tables, and pagination features using CSS.
+- Created an app layout for the webpage to enhance user navigation and experience.
+- Implemented comprehensive CSS techniques to achieve desired webpage functionalities and aesthetics.
+
 ## Week 3
 
 In Week 3, I gained basic knowledge of JavaScript and learned essential concepts for frontend web development. This included understanding variables, operators, functions,loops etc. I applied these skills in my project, enhancingthe website's functionality and interactivity. This hands-on experience was invaluable, allowing me to effectively integrate JavaScript with my existing design. It also improved my ability to create dynamic and responsive web pages, furthering my development skills.
