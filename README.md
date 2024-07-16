@@ -38,7 +38,7 @@ During the first week of the course, I explored the basics of HTML and developed
 
 In Week 2, I delved into the significance of CSS in webpage design, mastering its application to create visually appealing interfaces. I explored various layout techniques, including float, flexbox, and grid, honing my styling skills. Additionally, I enhanced the design of the blog post page from Week 1 and created various other components and pages, such as an accordion, carousel, hero section, tables, app layout, and pagination designs, utilizing CSS.
 
-# Day-by-Day CSS Process
+# Day by day process
 
 ### Day 1:
 - Practiced basic CSS skills to enhance webpage styling.
@@ -69,6 +69,33 @@ In Week 2, I delved into the significance of CSS in webpage design, mastering it
 ## Week 3
 
 In Week 3, I gained basic knowledge of JavaScript and learned essential concepts for frontend web development. This included understanding variables, operators, functions,loops etc. I applied these skills in my project, enhancingthe website's functionality and interactivity. This hands-on experience was invaluable, allowing me to effectively integrate JavaScript with my existing design. It also improved my ability to create dynamic and responsive web pages, furthering my development skills.
+
+# Day by day process
+
+### Day 1:
+- Practiced basic JavaScript skills to enhance webpage functionality.
+- Learned foundational concepts such as variables, data types, and operators.
+- Explored basic JavaScript syntax and its application in web development.
+
+### Day 2:
+- Started learning advanced JavaScript concepts and techniques.
+- Studied functions, arrays, and objects in JavaScript for more dynamic web page interactions.
+- Applied JavaScript to manipulate DOM elements and handle events effectively.
+
+### Day 3:
+- Delved into web development and design principles using JavaScript.
+- Explored the role of JavaScript in creating responsive and interactive web pages.
+- Learned about asynchronous programming, callbacks, promises, and async/await for managing asynchronous operations.
+
+### Day 4:
+- Continued applying JavaScript skills to enhance webpage functionality and user interaction.
+- Implemented interactive components such as sliders, modals, and form validations using JavaScript.
+- Utilized JavaScript libraries and frameworks to streamline development tasks.
+
+### Day 5:
+- Designed dynamic features like scrolling effects, dynamic content loading, and animations using JavaScript.
+- Integrated APIs to fetch data and display dynamic content on web pages.
+- Implemented comprehensive JavaScript techniques to achieve desired webpage functionalities and enhance user experience.
 
 ## Week 4
 
